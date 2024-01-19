@@ -6,6 +6,7 @@ int main() {
 
 		std::string str = R"(
 	{ 
+	"null":null,
 	"name":"test",
 		"number":10.987,
 		"array":[
@@ -15,7 +16,7 @@ int main() {
 		{ "age":12,"name":"Tom" }	
 		],
 		"object":{
-			"name":"yushi",
+			"name":"Jack",
 			"age":100
 			"sex":"man",
 	"array":[12,0,true,false,null,[12,{}]]
