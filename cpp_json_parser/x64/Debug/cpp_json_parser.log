@@ -1,0 +1,9 @@
+﻿  cpp_json.cpp
+D:\Y7000P\大学\编程语言C++\项目练习\JSON 解析器\cpp_json_parser\cpp_json_parser\cpp_json.cpp(399,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\JSON 解析器\cpp_json_parser\cpp_json_parser\cpp_json.cpp(447,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\JSON 解析器\cpp_json_parser\cpp_json_parser\cpp_json.cpp(482,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test.cpp
+  正在生成代码...
+D:\Y7000P\大学\编程语言C++\项目练习\JSON 解析器\cpp_json_parser\cpp_json_parser\cpp_json.cpp(309): warning C4715: “CPP_JSON::parser_array”: 不是所有的控件路径都返回值
+D:\Y7000P\大学\编程语言C++\项目练习\JSON 解析器\cpp_json_parser\cpp_json_parser\cpp_json.cpp(392): warning C4715: “CPP_JSON::parser_object”: 不是所有的控件路径都返回值
+  cpp_json_parser.vcxproj -> D:\Y7000P\大学\编程语言C++\项目练习\JSON 解析器\cpp_json_parser\x64\Debug\cpp_json_parser.exe
